@@ -123,9 +123,3 @@ This project was created as part of the academic requirement for the **Business 
 All views are personal and not officially endorsed by any institution.
 
 ---
-
-## 🙌 Acknowledgments
-
-- **Bhatnagar Digital Library** – For access and transparency  
-- **Faculty & Mentors** – From IIT Madras  
-- **Survey Participants** – For valuable insights
